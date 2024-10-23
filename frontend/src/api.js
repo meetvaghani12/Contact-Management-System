@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://backend-contact-management-system.onrender.com/";
+const API_URL = "https://backend-contact-management-system.onrender.com/api";
 alert(API_URL)
 
 // Basic CRUD Operations
